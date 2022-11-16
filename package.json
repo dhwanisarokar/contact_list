@@ -1,0 +1,19 @@
+{
+  "name": "contact_list",
+  "version": "1.0.0",
+  "description": "\"a basic contact list to learn express js as framwork\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Dhwani A. Sarokar",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "eps": "^0.1.0",
+    "express": "^4.17.3",
+    "mongoose": "^6.3.3",
+    "nodemon": "^2.0.16"
+  }
+}
